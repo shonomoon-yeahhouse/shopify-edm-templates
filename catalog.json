@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "version": "2026.10.06.2",
+  "templates": [
+    {
+      "id": "github-new-arrivals",
+      "display_name": "GitHub · 新品上新",
+      "title": "GitHub · 新品上新",
+      "purpose": "new-arrivals",
+      "description": "完整四件套 GitHub 模板。",
+      "license": "Project template",
+      "min_app_version": "13.0.4",
+      "files": {
+        "json": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.json", "sha256": "b0d08077ad0634902d8f8dcef09591ec08a18be9df7d114aed558e6df0afe3a9"},
+        "mjml": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.mjml", "sha256": "02874c8503c9c570955067ecb6ea985a79a35206280b6f51a8ae8056ad729d79"},
+        "html": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.html", "sha256": "c18a61da8ce0f3fe64aeac32706fcf68f500b370625926090daf12f1d698a928"},
+        "manifest": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.manifest.json", "sha256": "e96ef873ec0cc42751e54a1619c9639009c1704d5b1d4a3c7294fbf8ef797fb3"}
+      }
+    },
+    {
+      "id": "github-limited-sale",
+      "display_name": "GitHub · 限时促销",
+      "title": "GitHub · 限时促销",
+      "purpose": "limited-sale",
+      "description": "第二个完整 GitHub 模板包。",
+      "license": "Project template",
+      "min_app_version": "13.0.4",
+      "files": {
+        "json": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.json", "sha256": "626dbe952284d5c229c4df8587148b60c50fb37c2e5d9e5526dd59351e529338"},
+        "mjml": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.mjml", "sha256": "b76ab9a397b5c202cce0fef368e67a0d8425b396f888c40bd047485370a33783"},
+        "html": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.html", "sha256": "c18a61da8ce0f3fe64aeac32706fcf68f500b370625926090daf12f1d698a928"},
+        "manifest": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.manifest.json", "sha256": "01a0057b3a47d56185a63bff27aabd4c030511704e05032f53daeb4001f03719"}
+      }
+    }
+  ]
+}

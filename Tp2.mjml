@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+
+    <mj-raw>
+      <meta name="color-scheme" content="light dark" />
+      <meta name="supported-color-schemes" content="light dark" />
+    </mj-raw>
+    <mj-html-attributes>
+      <mj-html-attribute class="zalify-email" multiple-attributes="false" attribute-name="text-color" text-color="#000000"></mj-html-attribute>
+      <mj-html-attribute class="zalify-email" multiple-attributes="false" attribute-name="font-family" font-family="'FuturaStd',Futura,'Nunito',Helvetica,Arial,sans-serif"></mj-html-attribute>
+      <mj-html-attribute class="zalify-email" multiple-attributes="false" attribute-name="font-size" font-size="14px"></mj-html-attribute>
+      <mj-html-attribute class="zalify-email" multiple-attributes="false" attribute-name="line-height" line-height="1.7"></mj-html-attribute>
+      <mj-html-attribute class="zalify-email" multiple-attributes="false" attribute-name="font-weight" font-weight="400"></mj-html-attribute>
+      <mj-html-attribute class="zalify-email" multiple-attributes="false" attribute-name="responsive" responsive="true"></mj-html-attribute>
+
+    </mj-html-attributes>
+
+    <mj-style inline="inline">.hide-desktop-block {
+      display: none !important;
+      mso-hide: all !important;
+      }
+      .hide-desktop-inline-block {
+      display: none !important;
+      mso-hide: all !important;
+      }
+
+      .hide-block {
+      display: none !important;
+      mso-hide: all !important;
+      }
+    </mj-style>
+    <mj-style>:root {
+      color-scheme: light dark;
+      supported-color-schemes: light dark;
+      }
+      a {
+      color: inherit;
+      }
+      .overflow-hidden {
+      overflow: hidden;
+      }
+      @media (max-width: 480px) {
+      .hide-mobile-block {
+      max-height: 0px;
+      overflow: hidden;
+      display: none !important;
+      }
+
+      .hide-desktop-block {
+      display: block !important;
+      }
+
+      .hide-mobile-inline-block {
+      max-height: 0px;
+      overflow: hidden;
+      display: none !important;
+      }
+
+      .hide-desktop-inline-block {
+      display: inline-block !important;
+      }
+      }
+    </mj-style>
+    <mj-style>a { color: #000000} a:hover { color: #000000} a:active { color: #000000}</mj-style>
+    <mj-style>a { color: #000000} a:hover { color: #000000} a:active { color: #000000}</mj-style>
+
+    <mj-style>a { color: #000000} a:hover { color: #000000} a:active { color: #000000}</mj-style>
+
+
+    <mj-breakpoint width="480px" />
+
+    <mj-font name="FuturaStd" href="https://fonts.googleapis.com/css2?family=FuturaStd&amp;display=swap" />
+    <mj-font name="Futura" href="https://fonts.googleapis.com/css2?family=Futura&amp;display=swap" />
+    <mj-font name="Nunito" href="https://fonts.googleapis.com/css2?family=Nunito&amp;display=swap" />
+    <mj-attributes>
+
+      <mj-all font-family="'FuturaStd',Futura,'Nunito',Helvetica,Arial,sans-serif" />
+      <mj-text font-size="14px" />
+      <mj-text color="#000000" />
+      <mj-text align="center" />
+
+      <mj-button font-size="16px" />
+      <mj-button color="#FFFFFF" />
+      <mj-text line-height="1.7" />
+      <mj-text font-weight="400" />
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="660px"><mj-wrapper padding="0px"><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/kmmzsv9567154gbpahsl.jpg" align="center" height="auto" padding="10px 80px 0 80px" container-background-color="#ffffff" css-class="hide-mobile-block"></mj-image><mj-raw><!-- htmlmin:ignore --><!--[if !mso]><!--><!-- htmlmin:ignore --></mj-raw><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/kmmzsv9567154gbpahsl.jpg" align="center" height="auto" padding="0 0px 0px 0px" container-background-color="#ffffff" css-class="hide-desktop-block"></mj-image><mj-raw><!-- htmlmin:ignore --><!--<![endif]--><!-- htmlmin:ignore --></mj-raw><mj-divider align="center" padding="0px 17px 10px 17px" border-color="#f2f2f2" border-style="solid" border-width="1px" container-background-color="#ffffff"></mj-divider><mj-navbar align="center" container-background-color="#ffffff" css-class="">
+        <mj-navbar-link href="https://www.poava.com/collections/new-in" target="_blank" padding="0px" css-class="contenteditable-block node-contenteditable-type-text node-contenteditable-idx-content.children.[2].data.value.links.[0].content">New in</mj-navbar-link>
+
+
+        <mj-navbar-link href="https://www.poava.com/" target="_blank" padding="0px" css-class="contenteditable-block node-contenteditable-type-text node-contenteditable-idx-content.children.[2].data.value.links.[1].content">dresses</mj-navbar-link>
+
+
+        <mj-navbar-link href="https://www.poava.com/collections/prom" target="_blank" padding="0px" css-class="contenteditable-block node-contenteditable-type-text node-contenteditable-idx-content.children.[2].data.value.links.[2].content">occasion</mj-navbar-link>
+
+
+        <mj-navbar-link href="https://www.poava.com/collections/accessories" target="_blank" padding="0px" css-class="contenteditable-block node-contenteditable-type-text node-contenteditable-idx-content.children.[2].data.value.links.[3].content">ACCESSORIES</mj-navbar-link>
+      </mj-navbar><mj-wrapper padding="0px 0px 0px 0px" direction="ltr" text-align="center" css-class=""><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/New_Year_2026_cf59966b-e80f-4a42-984a-e6ac61f864cf.png?v=1767861083" href="https://www.poava.com/products/katherine-satin-bodycon-corset-mini-dress-in-red" align="center" height="auto" padding="8px 20px 0px 20px" container-background-color="#ffffff" css-class="hide-mobile-block"></mj-image><mj-raw><!-- htmlmin:ignore --><!--[if !mso]><!--><!-- htmlmin:ignore --></mj-raw><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/New_Year_2026_cf59966b-e80f-4a42-984a-e6ac61f864cf.png?v=1767861083" href="https://www.poava.com/products/katherine-satin-bodycon-corset-mini-dress-in-red" align="center" height="auto" padding="8px 20px 0px 20px" container-background-color="#ffffff" css-class="hide-desktop-block"></mj-image><mj-raw><!-- htmlmin:ignore --><!--<![endif]--><!-- htmlmin:ignore --></mj-raw></mj-wrapper><mj-text padding="30px 5px 2px 5px" font-size="20px" font-family="Georgia" container-background-color="#ffffff">“Easy fit. Instant vibe. ✨”</mj-text><mj-wrapper padding="0px 0px 0px 0px" direction="ltr" text-align="center" css-class=""><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/29_7fa8c3f9-2eec-415b-aab1-2b62bdbc8d54.png?v=1767861076" align="center" height="auto" padding="0px 5px 0px 5px" container-background-color="#ffffff"></mj-image></mj-wrapper><mj-text padding="5px 25px 5px 25px" font-family="Times New Roman" container-background-color="#ffffff"><a href="https://www.poava.com/products/murray-pink-beaded-embellished-mini-dress" target="_blank" style="text-decoration: underline;" tabindex="-1">SHOP NOW</a>&#160;&#160;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;<a href="https://www.poava.com/products/rosemary-ruffle-backless-mini-dress-in-black" target="_blank" style="text-decoration: underline;" tabindex="-1">SHOP N</a>OW</mj-text><mj-wrapper padding="0px 0px 0px 0px" direction="ltr" text-align="center" css-class=""><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/30_193e1de5-13db-4520-98e0-d0fbe3338d3e.png?v=1767861076" align="center" height="auto" padding="0px 5px 0px 5px" container-background-color="#ffffff"></mj-image></mj-wrapper><mj-text padding="5px 25px 5px 25px" font-family="Times New Roman" container-background-color="#ffffff"><a href="https://www.poava.com/products/sabrina-silver-rhinestone-embellished-mini-dress" target="_blank" style="text-decoration: underline;" tabindex="-1">SHOP NOW</a>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160;<a href="https://www.poava.com/products/michaelia-white-contour-sleeveless-polka-dot-contrast-bow-bandage-mini-dress" target="_blank" style="text-decoration: underline;" tabindex="-1">&#160;<span style="text-decoration: underline;">SHOP NOW</span></a></mj-text><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/31.png?v=1767861076" href="https://glorialanvin.us/products/beverly-knit-bodycon-midi-dress-in-white?_pos=8&amp;_sid=b98fe31f1&amp;_ss=r" align="center" height="auto" padding="0px 5px 0px 5px" container-background-color="#ffffff"></mj-image><mj-text padding="10px 25px 10px 25px" font-family="Times New Roman" container-background-color="#ffffff"><a href="https://www.poava.com/products/sherry-nude-cord-lace-bustier-mini-dress" target="_blank" style="text-decoration: underline;" tabindex="-1">SHOP NOW</a>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;<a href="https://www.poava.com/products/candance-sleeveless-plaid-knit-top-skirt-set-in-red" target="_blank" style="text-decoration: underline;" tabindex="-1">&#160;<span style="text-decoration: underline;">SHOP NOW</span></a></mj-text><mj-image src="https://cdn.shopify.com/s/files/1/0775/6460/8821/files/32.png?v=1767861076" href="https://glorialanvin.us/collections/end-year-sale" align="center" height="auto" padding="15px 19px 0px 19px"></mj-image><mj-wrapper padding="30px 0px 30px 0px" direction="ltr" text-align="center" background-color="#ffffff" css-class=""><mj-social mode="horizontal" align="center" color="#333333" padding="5px 25px 5px 25px" font-size="13px" icon-size="25px" font-weight="normal" line-height="22px" icon-padding="0px" text-padding="0px" border-radius="3px" inner-padding="0px" css-class="hide-mobile-block"><mj-social-element src="https://z1assets.zalify.com/system/cloudinary-email-migration/84a47e55a51df65f4f2424df967ce6f494d4581ffd960a876ac6499fa25a3e5f.png" href="https://www.facebook.com/profile.php?id=100090094700347" target="_blank" padding="0px 0px 0px 0px" text-padding="0px 0px 0px 2px"></mj-social-element>
+          <mj-social-element src="https://z1assets.zalify.com/system/cloudinary-email-migration/5b07831341cbf86eed633165e0c6102f0a531367bfd98e36c82780a45e065114.png" href="https://www.instagram.com/glorialanvin" target="_blank" padding="0px 0px 0px 0px" text-padding="0px 0px 0px 2px"></mj-social-element></mj-social><mj-raw><!-- htmlmin:ignore --><!--[if !mso]><!--><!-- htmlmin:ignore --></mj-raw><mj-social mode="horizontal" align="center" color="#333333" padding="25px 0px 20px 0px" font-size="13px" icon-size="25px" font-weight="normal" line-height="22px" icon-padding="0px" text-padding="0px" border-radius="3px" inner-padding="0px" css-class="hide-desktop-block"><mj-social-element src="https://z1assets.zalify.com/system/cloudinary-email-migration/84a47e55a51df65f4f2424df967ce6f494d4581ffd960a876ac6499fa25a3e5f.png" href="https://www.facebook.com/profile.php?id=100090094700347" target="_blank" padding="0px 0px 0px 0px" text-padding="0px 0px 0px 2px"></mj-social-element>
+          <mj-social-element src="https://z1assets.zalify.com/system/cloudinary-email-migration/5b07831341cbf86eed633165e0c6102f0a531367bfd98e36c82780a45e065114.png" href="https://www.instagram.com/glorialanvin" target="_blank" padding="0px 0px 0px 0px" text-padding="0px 0px 0px 2px"></mj-social-element></mj-social><mj-raw><!-- htmlmin:ignore --><!--<![endif]--><!-- htmlmin:ignore --></mj-raw><mj-text color="#8e8ea5" padding="10px 25px 10px 25px">
+          <div><span style="color: rgb(0, 0, 0);"><br /></span></div>
+          <div><span style="color: rgb(0, 0, 0);">Copyright ©2026 POAVA&#160;</span><span style="word-spacing: normal; color: rgb(0, 0, 0);">61 West Camino Real,Boca Raton Florida 33486, United States</span><span style="color: rgb(0, 0, 0);"><br /></span></div>
+          <div><span style="color: rgb(0, 0, 0);"><br /></span></div>
+          <div><span style="color: rgb(0, 0, 0);">Contact:&#160;</span><span style="word-spacing: normal; color: rgb(0, 0, 0);">support@poava.com</span></div>
+        </mj-text><mj-section padding="0px 0px 0 0px" direction="ltr" text-align="center" background-size="auto" background-repeat="repeat" background-position="top center"><mj-column width="50%"><mj-text color="#8e8ea5" padding="10px 25px 0px 25px" text-decoration="underline"><a href="*|UNSUBSCRIBE_URL|*" target="_blank" style="text-decoration: underline; color: rgb(0, 0, 0);" tabindex="-1">UNSUBSCRIBE FROM THIS LIST</a></mj-text></mj-column></mj-section></mj-wrapper></mj-wrapper></mj-body>
+</mjml>
