@@ -1,66 +1,36 @@
 {
-  "schema_version": 1,
-  "version": "13.0.1",
+  "schema_version": 2,
+  "version": "2026.10.05",
   "templates": [
     {
-      "id": "new-arrivals",
-      "base_template_id": "Tp1",
-      "display_name": "新品上新",
-      "title": "New arrivals product grid",
-      "purpose": "new_arrivals",
-      "description": "封面加商品网格，适合每周新品和系列发布。",
-      "subject": "New arrivals are here",
-      "preheader": "Discover the latest pieces",
-      "license": "Yeahhouse original; MJML-compatible source",
-      "template_settings": {"default_button_text": "Shop New Arrivals", "accent_color": "#111827", "background_color": "#f3f4f6", "text_color": "#202124", "font_family": "modern"}
+      "id": "github-new-arrivals",
+      "display_name": "GitHub · 新品上新",
+      "title": "GitHub · 新品上新",
+      "purpose": "new-arrivals",
+      "description": "完整四件套示例；部署前替换仓库地址。",
+      "license": "Project template",
+      "min_app_version": "13.0.3",
+      "files": {
+        "json": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.json", "sha256": "b0d08077ad0634902d8f8dcef09591ec08a18be9df7d114aed558e6df0afe3a9"},
+        "mjml": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.mjml", "sha256": "676750c60446ddd6daac91cc101f1c1bdb50f1d3f245138230bf3a9a0010c027"},
+        "html": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.html", "sha256": "c18a61da8ce0f3fe64aeac32706fcf68f500b370625926090daf12f1d698a928"},
+        "manifest": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp1.manifest.json", "sha256": "e96ef873ec0cc42751e54a1619c9639009c1704d5b1d4a3c7294fbf8ef797fb3"}
+      }
     },
     {
-      "id": "limited-sale",
-      "base_template_id": "Tp1",
-      "display_name": "限时促销",
-      "title": "Limited-time promotion",
-      "purpose": "sale",
-      "description": "突出主视觉和行动按钮，适合折扣与限时活动。",
-      "subject": "A limited-time offer for you",
-      "preheader": "Shop the edit before it ends",
-      "license": "Yeahhouse original; MJML-compatible source",
-      "template_settings": {"default_button_text": "Shop The Offer", "accent_color": "#b42318", "background_color": "#fff4ed", "text_color": "#3b1612", "font_family": "modern"}
-    },
-    {
-      "id": "back-in-stock",
-      "base_template_id": "Tp2",
-      "display_name": "补货通知",
-      "title": "Back in stock",
-      "purpose": "restock",
-      "description": "简洁聚焦商品，适合补货和热卖回归。",
-      "subject": "Back in stock",
-      "preheader": "Your favorites have returned",
-      "license": "Yeahhouse original; MJML-compatible source",
-      "template_settings": {"default_button_text": "Shop Restocked", "accent_color": "#175cd3", "background_color": "#eff8ff", "text_color": "#102a56", "font_family": "sans"}
-    },
-    {
-      "id": "vip-edit",
-      "base_template_id": "Tp2",
-      "display_name": "VIP专享",
-      "title": "VIP private edit",
-      "purpose": "vip",
-      "description": "克制、高级的会员专享陈列。",
-      "subject": "A private edit for our VIPs",
-      "preheader": "Early access, selected for you",
-      "license": "Yeahhouse original; MJML-compatible source",
-      "template_settings": {"default_button_text": "Explore The Edit", "accent_color": "#6941c6", "background_color": "#f4f3ff", "text_color": "#2c1c5f", "font_family": "editorial"}
-    },
-    {
-      "id": "brand-story",
-      "base_template_id": "Tp1",
-      "display_name": "品牌故事",
-      "title": "Brand story",
-      "purpose": "story",
-      "description": "图文叙事结构，适合品牌理念与系列故事。",
-      "subject": "The story behind the collection",
-      "preheader": "Designed with intention",
-      "license": "Yeahhouse original; MJML-compatible source",
-      "template_settings": {"default_button_text": "Read The Story", "accent_color": "#365314", "background_color": "#f7fee7", "text_color": "#26340f", "font_family": "editorial"}
+      "id": "github-limited-sale",
+      "display_name": "GitHub · 限时促销",
+      "title": "GitHub · 限时促销",
+      "purpose": "limited-sale",
+      "description": "第二个完整模板包示例。",
+      "license": "Project template",
+      "min_app_version": "13.0.3",
+      "files": {
+        "json": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.json", "sha256": "626dbe952284d5c229c4df8587148b60c50fb37c2e5d9e5526dd59351e529338"},
+        "mjml": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.mjml", "sha256": "2bd7a19828d64821a94c3da176106b5a11982b8a859b756299fc3015ed15cc73"},
+        "html": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.html", "sha256": "c18a61da8ce0f3fe64aeac32706fcf68f500b370625926090daf12f1d698a928"},
+        "manifest": {"url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/Tp2.manifest.json", "sha256": "01a0057b3a47d56185a63bff27aabd4c030511704e05032f53daeb4001f03719"}
+      }
     }
   ]
 }
