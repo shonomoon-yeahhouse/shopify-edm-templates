@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "version": "13.0.1",
+  "templates": [
+    {
+      "id": "new-arrivals",
+      "base_template_id": "Tp1",
+      "display_name": "新品上新",
+      "title": "New arrivals product grid",
+      "purpose": "new_arrivals",
+      "description": "封面加商品网格，适合每周新品和系列发布。",
+      "subject": "New arrivals are here",
+      "preheader": "Discover the latest pieces",
+      "license": "Yeahhouse original; MJML-compatible source",
+      "template_settings": {"default_button_text": "Shop New Arrivals", "accent_color": "#111827", "background_color": "#f3f4f6", "text_color": "#202124", "font_family": "modern"}
+    },
+    {
+      "id": "limited-sale",
+      "base_template_id": "Tp1",
+      "display_name": "限时促销",
+      "title": "Limited-time promotion",
+      "purpose": "sale",
+      "description": "突出主视觉和行动按钮，适合折扣与限时活动。",
+      "subject": "A limited-time offer for you",
+      "preheader": "Shop the edit before it ends",
+      "license": "Yeahhouse original; MJML-compatible source",
+      "template_settings": {"default_button_text": "Shop The Offer", "accent_color": "#b42318", "background_color": "#fff4ed", "text_color": "#3b1612", "font_family": "modern"}
+    },
+    {
+      "id": "back-in-stock",
+      "base_template_id": "Tp2",
+      "display_name": "补货通知",
+      "title": "Back in stock",
+      "purpose": "restock",
+      "description": "简洁聚焦商品，适合补货和热卖回归。",
+      "subject": "Back in stock",
+      "preheader": "Your favorites have returned",
+      "license": "Yeahhouse original; MJML-compatible source",
+      "template_settings": {"default_button_text": "Shop Restocked", "accent_color": "#175cd3", "background_color": "#eff8ff", "text_color": "#102a56", "font_family": "sans"}
+    },
+    {
+      "id": "vip-edit",
+      "base_template_id": "Tp2",
+      "display_name": "VIP专享",
+      "title": "VIP private edit",
+      "purpose": "vip",
+      "description": "克制、高级的会员专享陈列。",
+      "subject": "A private edit for our VIPs",
+      "preheader": "Early access, selected for you",
+      "license": "Yeahhouse original; MJML-compatible source",
+      "template_settings": {"default_button_text": "Explore The Edit", "accent_color": "#6941c6", "background_color": "#f4f3ff", "text_color": "#2c1c5f", "font_family": "editorial"}
+    },
+    {
+      "id": "brand-story",
+      "base_template_id": "Tp1",
+      "display_name": "品牌故事",
+      "title": "Brand story",
+      "purpose": "story",
+      "description": "图文叙事结构，适合品牌理念与系列故事。",
+      "subject": "The story behind the collection",
+      "preheader": "Designed with intention",
+      "license": "Yeahhouse original; MJML-compatible source",
+      "template_settings": {"default_button_text": "Read The Story", "accent_color": "#365314", "background_color": "#f7fee7", "text_color": "#26340f", "font_family": "editorial"}
+    }
+  ]
+}
