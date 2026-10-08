@@ -1,0 +1,15 @@
+{
+  "title": "限时促销",
+  "meta": {
+    "subject": "A limited-time offer",
+    "subTitle": "Selected styles, available for a limited time."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "新品上新",
+  "meta": {
+    "subject": "New arrivals are here",
+    "subTitle": "Explore the latest edit."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

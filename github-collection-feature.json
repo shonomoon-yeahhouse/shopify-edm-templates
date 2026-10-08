@@ -1,0 +1,15 @@
+{
+  "title": "系列精选",
+  "meta": {
+    "subject": "Explore the collection",
+    "subTitle": "A curated collection selected for you."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

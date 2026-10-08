@@ -1,0 +1,15 @@
+{
+  "title": "节日活动",
+  "meta": {
+    "subject": "A seasonal edit",
+    "subTitle": "Discover the collection for the season."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

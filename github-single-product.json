@@ -1,0 +1,15 @@
+{
+  "title": "单品重点",
+  "meta": {
+    "subject": "One piece, considered in detail",
+    "subTitle": "Take a closer look at this featured style."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

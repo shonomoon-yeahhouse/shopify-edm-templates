@@ -1,0 +1,22 @@
+{
+  "schema_version": 3,
+  "display_name": "GitHub · 编辑精选",
+  "engine": "mjml",
+  "logo_slots": 1,
+  "hero_slots": 1,
+  "product_slots": 4,
+  "component_tokens": [
+    "brand_header_html",
+    "brand_footer_html",
+    "sale_top_html",
+    "sale_middle_html",
+    "sale_bottom_html"
+  ],
+  "template_settings": {
+    "accent_color": "#3f3f46",
+    "background_color": "#f3f4f6",
+    "text_color": "#202124",
+    "font_family": "editorial",
+    "default_button_text": "Shop Now"
+  }
+}

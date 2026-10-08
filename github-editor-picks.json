@@ -1,0 +1,15 @@
+{
+  "title": "编辑精选",
+  "meta": {
+    "subject": "The editor's selection",
+    "subTitle": "Our current favorites, gathered in one edit."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

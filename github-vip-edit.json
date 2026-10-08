@@ -1,0 +1,15 @@
+{
+  "title": "VIP 专享",
+  "meta": {
+    "subject": "A private edit for you",
+    "subTitle": "A considered selection for our VIP customers."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

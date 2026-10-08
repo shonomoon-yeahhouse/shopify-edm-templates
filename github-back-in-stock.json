@@ -1,0 +1,15 @@
+{
+  "title": "补货通知",
+  "meta": {
+    "subject": "Back in stock",
+    "subTitle": "The styles you wanted have returned."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

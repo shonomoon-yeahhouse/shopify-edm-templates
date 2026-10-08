@@ -1,0 +1,15 @@
+{
+  "title": "清仓活动",
+  "meta": {
+    "subject": "Last chance to discover",
+    "subTitle": "Final availability on selected styles."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}

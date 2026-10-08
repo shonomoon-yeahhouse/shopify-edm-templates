@@ -1,0 +1,15 @@
+{
+  "title": "品牌故事",
+  "meta": {
+    "subject": "Inside our story",
+    "subTitle": "Discover the ideas behind the collection."
+  },
+  "root": {
+    "type": "page",
+    "data": {
+      "value": {}
+    },
+    "attributes": {},
+    "children": []
+  }
+}
