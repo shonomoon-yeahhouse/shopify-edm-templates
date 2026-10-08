@@ -1,28 +1,28 @@
 {
   "schema_version": 1,
-  "brand_id": "poava-com",
+  "brand_id": "poava-jp",
   "domains": [
-    "poava.com"
+    "poava.jp"
   ],
   "template_settings": {
     "logo_url": "",
-    "logo_link": "https://www.poava.com",
+    "logo_link": "https://www.poava.jp",
     "navigation": [
       {
         "label": "NEW IN",
-        "url": "https://www.poava.com/collections/new-in"
+        "url": "https://www.poava.jp/collections/new-in"
       },
       {
         "label": "DRESSES",
-        "url": "https://www.poava.com/collections/dresses"
+        "url": "https://www.poava.jp/collections/dresses"
       },
       {
         "label": "SALE",
-        "url": "https://www.poava.com/collections/sale"
+        "url": "https://www.poava.jp/collections/sale"
       }
     ],
     "default_button_text": "Shop Now",
-    "footer_text": "POAVA",
+    "footer_text": "POAVA JP",
     "footer_email": "",
     "social_links": {},
     "unsubscribe": {

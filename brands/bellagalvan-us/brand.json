@@ -1,28 +1,28 @@
 {
   "schema_version": 1,
-  "brand_id": "poava-com",
+  "brand_id": "bellagalvan-us",
   "domains": [
-    "poava.com"
+    "bellagalvan.us"
   ],
   "template_settings": {
     "logo_url": "",
-    "logo_link": "https://www.poava.com",
+    "logo_link": "https://www.bellagalvan.us",
     "navigation": [
       {
         "label": "NEW IN",
-        "url": "https://www.poava.com/collections/new-in"
+        "url": "https://www.bellagalvan.us/collections/new-in"
       },
       {
         "label": "DRESSES",
-        "url": "https://www.poava.com/collections/dresses"
+        "url": "https://www.bellagalvan.us/collections/dresses"
       },
       {
         "label": "SALE",
-        "url": "https://www.poava.com/collections/sale"
+        "url": "https://www.bellagalvan.us/collections/sale"
       }
     ],
     "default_button_text": "Shop Now",
-    "footer_text": "POAVA",
+    "footer_text": "BELLAGALVAN",
     "footer_email": "",
     "social_links": {},
     "unsubscribe": {
@@ -30,8 +30,8 @@
       "url_template": ""
     },
     "promotion_slots": {},
-    "accent_color": "#111111",
-    "background_color": "#faf7f2",
+    "accent_color": "#312e81",
+    "background_color": "#f5f3ff",
     "text_color": "#202124",
     "font_family": "modern"
   }

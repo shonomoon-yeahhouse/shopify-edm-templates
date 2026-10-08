@@ -1,28 +1,28 @@
 {
   "schema_version": 1,
-  "brand_id": "poava-com",
+  "brand_id": "glorialanvin-us",
   "domains": [
-    "poava.com"
+    "glorialanvin.us"
   ],
   "template_settings": {
     "logo_url": "",
-    "logo_link": "https://www.poava.com",
+    "logo_link": "https://www.glorialanvin.us",
     "navigation": [
       {
         "label": "NEW IN",
-        "url": "https://www.poava.com/collections/new-in"
+        "url": "https://www.glorialanvin.us/collections/new-in"
       },
       {
         "label": "DRESSES",
-        "url": "https://www.poava.com/collections/dresses"
+        "url": "https://www.glorialanvin.us/collections/dresses"
       },
       {
         "label": "SALE",
-        "url": "https://www.poava.com/collections/sale"
+        "url": "https://www.glorialanvin.us/collections/sale"
       }
     ],
     "default_button_text": "Shop Now",
-    "footer_text": "POAVA",
+    "footer_text": "GLORIALANVIN",
     "footer_email": "",
     "social_links": {},
     "unsubscribe": {
@@ -30,8 +30,8 @@
       "url_template": ""
     },
     "promotion_slots": {},
-    "accent_color": "#111111",
-    "background_color": "#faf7f2",
+    "accent_color": "#831843",
+    "background_color": "#fdf2f8",
     "text_color": "#202124",
     "font_family": "modern"
   }

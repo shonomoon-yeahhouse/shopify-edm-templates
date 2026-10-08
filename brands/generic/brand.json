@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "brand_id": "generic",
+  "domains": [
+    "*"
+  ],
+  "template_settings": {
+    "logo_url": "",
+    "logo_link": "",
+    "navigation": [],
+    "default_button_text": "Shop Now",
+    "footer_text": "",
+    "footer_email": "",
+    "social_links": {},
+    "unsubscribe": {
+      "label": "Unsubscribe",
+      "url_template": ""
+    },
+    "promotion_slots": {},
+    "accent_color": "#111827",
+    "background_color": "#f3f4f6",
+    "text_color": "#202124",
+    "font_family": "modern"
+  }
+}

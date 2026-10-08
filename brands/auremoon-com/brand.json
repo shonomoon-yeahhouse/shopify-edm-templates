@@ -1,28 +1,28 @@
 {
   "schema_version": 1,
-  "brand_id": "poava-com",
+  "brand_id": "auremoon-com",
   "domains": [
-    "poava.com"
+    "auremoon.com"
   ],
   "template_settings": {
     "logo_url": "",
-    "logo_link": "https://www.poava.com",
+    "logo_link": "https://www.auremoon.com",
     "navigation": [
       {
         "label": "NEW IN",
-        "url": "https://www.poava.com/collections/new-in"
+        "url": "https://www.auremoon.com/collections/new-in"
       },
       {
         "label": "DRESSES",
-        "url": "https://www.poava.com/collections/dresses"
+        "url": "https://www.auremoon.com/collections/dresses"
       },
       {
         "label": "SALE",
-        "url": "https://www.poava.com/collections/sale"
+        "url": "https://www.auremoon.com/collections/sale"
       }
     ],
     "default_button_text": "Shop Now",
-    "footer_text": "POAVA",
+    "footer_text": "AUREMOON",
     "footer_email": "",
     "social_links": {},
     "unsubscribe": {
@@ -30,8 +30,8 @@
       "url_template": ""
     },
     "promotion_slots": {},
-    "accent_color": "#111111",
-    "background_color": "#faf7f2",
+    "accent_color": "#713f12",
+    "background_color": "#fffbeb",
     "text_color": "#202124",
     "font_family": "modern"
   }
