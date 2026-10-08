@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "version": "2026.10.08.1",
-  "min_app_version": "13.0.9",
+  "version": "2026.10.08.2",
+  "min_app_version": "13.1.1",
   "templates": [
     {
       "id": "github-new-arrivals",
@@ -12,7 +12,7 @@
       "subject": "New arrivals are here",
       "preheader": "Explore the latest edit.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-new-arrivals.json",
@@ -41,7 +41,7 @@
       "subject": "A limited-time offer",
       "preheader": "Selected styles, available for a limited time.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-limited-sale.json",
@@ -70,7 +70,7 @@
       "subject": "Back in stock",
       "preheader": "The styles you wanted have returned.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-back-in-stock.json",
@@ -99,7 +99,7 @@
       "subject": "A private edit for you",
       "preheader": "A considered selection for our VIP customers.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-vip-edit.json",
@@ -128,7 +128,7 @@
       "subject": "Inside our story",
       "preheader": "Discover the ideas behind the collection.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-brand-story.json",
@@ -157,7 +157,7 @@
       "subject": "A seasonal edit",
       "preheader": "Discover the collection for the season.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-holiday-sale.json",
@@ -186,7 +186,7 @@
       "subject": "One piece, considered in detail",
       "preheader": "Take a closer look at this featured style.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-single-product.json",
@@ -215,7 +215,7 @@
       "subject": "Explore the collection",
       "preheader": "A curated collection selected for you.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-collection-feature.json",
@@ -244,7 +244,7 @@
       "subject": "Last chance to discover",
       "preheader": "Final availability on selected styles.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-clearance-sale.json",
@@ -273,7 +273,7 @@
       "subject": "The editor's selection",
       "preheader": "Our current favorites, gathered in one edit.",
       "license": "Project template",
-      "min_app_version": "13.0.9",
+      "min_app_version": "13.1.1",
       "files": {
         "json": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/github-editor-picks.json",
@@ -307,23 +307,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-com/header.html",
-          "sha256": "b0f5b1c7b2bbad9ec406239163a18eef6e32f4a09572fec6235ed38b84b9ebfc"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-com/footer.html",
-          "sha256": "e76c5999af2858c8be7588c63d6ab636921ffd94737268285311a5af60a5000f"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-com/sale-top.html",
-          "sha256": "7b61b8cd58c0a74914bf6201f3c2cbd2436fab6d2d3e91ca6f051cb876250ab5"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-com/sale-middle.html",
-          "sha256": "1d1cc759ed82f3d118d7102d446ebd56720e61ecad1a397f39161025c7f49905"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-com/sale-bottom.html",
-          "sha256": "97696c517e96c5ed456e59180905f5040642174cfbf2462044f657a3528c662a"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -339,23 +339,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/sislabel-com/header.html",
-          "sha256": "761e21fc23b5c2f7ac935a6a8d47f719531ac6b8fafe7bcc6de2d71649fa08dd"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/sislabel-com/footer.html",
-          "sha256": "009f4533adb2d23b2771682d9bba20b0082a3640915ebf6e1c70298e9fe61b6a"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/sislabel-com/sale-top.html",
-          "sha256": "ff65caa8328b9dc5784509c8a75747018e3800e638b0458e2ceccd6bc2522010"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/sislabel-com/sale-middle.html",
-          "sha256": "2e1446cee9f338ed4ac64d1d341342533f84dbbea484c397e16f2aeddb2507a9"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/sislabel-com/sale-bottom.html",
-          "sha256": "d7a123e98867bb7756ebb552c6dcf62158d72ebcaf1cef8b947760a244705c49"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -371,23 +371,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/wildnora-com/header.html",
-          "sha256": "da6b0971a76f349b713827db19894ba691deb16dbc95bd6a3a42a84b76fba1d4"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/wildnora-com/footer.html",
-          "sha256": "71fe950f8ccf35670f76f1e4e832e17873d767570399ab3965af1af36ca35292"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/wildnora-com/sale-top.html",
-          "sha256": "d4429a437b606b1b0496ac456731704aa06aea751ab1746de6619536e0abf0e2"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/wildnora-com/sale-middle.html",
-          "sha256": "71e09873fed7d15b1a8086af46ef5b4d5998805f2ad9cd5395577418a1b7f13f"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/wildnora-com/sale-bottom.html",
-          "sha256": "7c4e824f5cca80ca3a87a8579fe4a46668cf6560e8e33b6b8ee3f36c682595fb"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -403,23 +403,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/auremoon-com/header.html",
-          "sha256": "f9075891504c4d5e55c8e9343ad97548ed6d867451240db63a24976207aeaa1c"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/auremoon-com/footer.html",
-          "sha256": "755d59ef219e5fe5e46d078afe30a9499b4ac661ab6e6b76980f3008b8644325"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/auremoon-com/sale-top.html",
-          "sha256": "c08c68e39f56bec5b83f973b95e2181ded946ad31655dfb793476b08c15c9a78"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/auremoon-com/sale-middle.html",
-          "sha256": "8db6a5573ec43ae474813da551df297cdb648f826903bff456c65ed2148e3d44"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/auremoon-com/sale-bottom.html",
-          "sha256": "9cc3b612eb87500300552efab187705032d0582e242617de2b9f37fe9236fb3d"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -435,23 +435,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-jp/header.html",
-          "sha256": "b0f5b1c7b2bbad9ec406239163a18eef6e32f4a09572fec6235ed38b84b9ebfc"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-jp/footer.html",
-          "sha256": "e76c5999af2858c8be7588c63d6ab636921ffd94737268285311a5af60a5000f"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-jp/sale-top.html",
-          "sha256": "7b61b8cd58c0a74914bf6201f3c2cbd2436fab6d2d3e91ca6f051cb876250ab5"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-jp/sale-middle.html",
-          "sha256": "1d1cc759ed82f3d118d7102d446ebd56720e61ecad1a397f39161025c7f49905"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/poava-jp/sale-bottom.html",
-          "sha256": "97696c517e96c5ed456e59180905f5040642174cfbf2462044f657a3528c662a"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -467,23 +467,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/bellagalvan-us/header.html",
-          "sha256": "12052de49896221d7e8fc00aab7183c0236db774d2f37292dde301ef319e3b4f"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/bellagalvan-us/footer.html",
-          "sha256": "45e1527989bc51fa6cb40eb891d645a10e59fcb3ea383019d1fba5bd180637ad"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/bellagalvan-us/sale-top.html",
-          "sha256": "9af7b02ce2a5c02a7f86d9dfdc1a3cee373d0653f485e262a2cb1c608ecb762d"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/bellagalvan-us/sale-middle.html",
-          "sha256": "87f90a764880d9099120b14e7709b8b20c1906a8fc97c436d4ff02f96573cd88"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/bellagalvan-us/sale-bottom.html",
-          "sha256": "1cd7a345e9a5adefdecf2cfe3afb544ba6973bfccfea51e7740b5814b20258f1"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -499,23 +499,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/glorialanvin-us/header.html",
-          "sha256": "bd0d7372ddebf17caa293debb77bad7e3a9750d287f4aa7a393daf9eb57f5736"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/glorialanvin-us/footer.html",
-          "sha256": "d6b83dc00d0240de85a8a8dc0c52046f3554dbbbab41949d1fcbf7846d86ed75"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/glorialanvin-us/sale-top.html",
-          "sha256": "09c00d67c857464ec9d50db27b26b0144f7e47ce85b49b2813ff282178a0d983"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/glorialanvin-us/sale-middle.html",
-          "sha256": "003a500395ee21605c0f5985fe0220c6889353a8de3a9b2a8aa8dc48b14916da"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/glorialanvin-us/sale-bottom.html",
-          "sha256": "e65389f3013537f84a4ef173761d96438d0716c4e0edd7331263468c1c469fd1"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     },
@@ -531,23 +531,23 @@
         },
         "header": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/generic/header.html",
-          "sha256": "20e495f63611789e8c2792f37b4b1b85e3b6ee9b8c49f0c5873746fb9948db45"
+          "sha256": "1f5c974e1a57cc6665b4c36deeaec0432152c4e37b2eaf5204e6cf829634f8f1"
         },
         "footer": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/generic/footer.html",
-          "sha256": "d6ac73056ba8f330fd0de173f9ef177169069dc685ea0491424253864858f1b9"
+          "sha256": "2780b4a303217e8e2d06c9432dbb6f89bdedbda583e7bd25b61c825a2cff283e"
         },
         "sale_top": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/generic/sale-top.html",
-          "sha256": "bf3e320c14cbcf2c6ed3b3306995bcef164824dd4bcff8a71a19a4164d3d1b71"
+          "sha256": "7755f52fcc2f637537cdf062842cb1831d353c6ae0c18862043c9fc8acc80443"
         },
         "sale_middle": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/generic/sale-middle.html",
-          "sha256": "0c8a1558c2e9af78774f282cb89f0552a47abab4dfadb317fea6fbf7041e5b97"
+          "sha256": "5c489c616d2715058bc31ff9c2db8683e44967b05bad21aa05449306a291d1f3"
         },
         "sale_bottom": {
           "url": "https://raw.githubusercontent.com/shonomoon-yeahhouse/shopify-edm-templates/main/brands/generic/sale-bottom.html",
-          "sha256": "bf5622f6ebc132e2c394e6919f7df05c2ac0fc5ce065a748baf9c34a06c86d13"
+          "sha256": "7c54515ed259c8c655a6ad9c5d87c84a931df949ad9b616d342b88c676b2c42c"
         }
       }
     }
